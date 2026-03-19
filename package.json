@@ -1,0 +1,16 @@
+{
+  "name": "pi-interactive-form",
+  "version": "1.0.0",
+  "description": "A pi coding agent extension that provides a tabbed form interface for gathering structured user input through single/multi-select options and custom text",
+  "keywords": ["pi-package"],
+  "license": "MIT",
+  "pi": {
+    "extensions": ["./extensions"]
+  },
+  "peerDependencies": {
+    "@mariozechner/pi-coding-agent": "*",
+    "@mariozechner/pi-ai": "*",
+    "@mariozechner/pi-tui": "*",
+    "@sinclair/typebox": "*"
+  }
+}
