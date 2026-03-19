@@ -2,6 +2,8 @@
 
 A [pi coding agent](https://github.com/badlogic/pi-mono) extension that provides an `interactive_form` tool — a tabbed form interface for gathering structured user input through selectable options and custom text.
 
+![Interactive Form Screenshot](assets/screenshot.png)
+
 ## Features
 
 - **Tabbed form UI** — present multiple questions as navigable tabs, each with its own set of options.
